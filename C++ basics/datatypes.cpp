@@ -10,7 +10,7 @@ int main(){
 // to print all the strings together
 
 string str;
-getline(cin,str);    // takes input and stores in str.
+getline(cin,str);     // takes input and stores in str.
 cout << str;
 return 0;
 
