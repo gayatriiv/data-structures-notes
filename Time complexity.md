@@ -3,3 +3,4 @@ analysed using Big Oh notation -> O()
 
 Rules
 1. calulate worst case time complexity.
+2. Avoid constants.
