@@ -6,4 +6,3 @@ calulate worst case time complexity.
 Avoid constants.
 Avoid lower values
 
-literally wtf am i doing in life this is so crazy
