@@ -1,12 +1,1 @@
-hhb# Dsa-notes
-
-this repository contains the notes from striver's dsa sheet .
-whos this
-who let the dogs out
-woah
-bruv
-umm
-meh
-dude
-duh
-ble
+strivers sheet and neetcode problems
